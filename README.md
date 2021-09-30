@@ -37,3 +37,7 @@ hs.audiodevice.watcher.start()
 4. Save
 5. "Reload Config"
 6. Et voilà
+
+
+
+Solution et source (http://ssrubin.com/posts/fixing-macos-bluetooth-headphone-audio-quality-issues-with-hammerspoon.html)
