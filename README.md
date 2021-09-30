@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        AirPods Pro fix pour macOS
+        AirPods Pro fix pour macOS (Big Sur et antérieur)
     </h1>
 </div>
 C'est un Fix avec Hammerspoon pour corriger le bug de qualité micro sur les Airpods Pro ! Un fix automatique.
